@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BlastingLeaves
 - 👀 I’m interested in a lot of things
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently trying to improve my skills
 - 💞️ I’m looking to collaborate on many projects because i ♡ CODING
 - 📫 You can reach me on alina.pindic@m-tag.io
 
